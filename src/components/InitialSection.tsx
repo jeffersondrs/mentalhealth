@@ -23,7 +23,7 @@ const InitialSection = () => {
           >
             <Button
               title="Agendar Consulta"
-              className="text-base py-4 px-6 bg-[#629D8C] text-white hover:bg-[#629d8ce0] transition-all duration-300 ease-in-out"
+              className="text-sm md:text-base py-4 px-6 bg-[#629D8C] text-white hover:bg-[#629d8ce0] transition-all duration-300 ease-in-out"
             />
           </div>
         </div>

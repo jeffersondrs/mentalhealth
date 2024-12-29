@@ -25,8 +25,8 @@ const DiscoveryBlock = () => {
             </a>
           </figcaption>
         </figure>
-        <div className="flex flex-col justify-between items-start p-4 md:p-0">
-          <h1 className="text-2xl md:text-3xl font-normal w-full">
+        <div className="flex flex-col justify-between gap-2 items-start p-4 md:p-0">
+          <h1 className="text-2xl md:text-4xl font-normal w-full">
             Descubra os benefícios transformadores de escolher o Centro
             Psicológico Nuvens de Algodão para o seu cuidado
           </h1>

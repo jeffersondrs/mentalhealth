@@ -10,7 +10,7 @@ const Testimonials = () => {
             O que nossos clientes estão dizendo
           </h1>
           <iframe
-            className="w-full h-full md:h-72 rounded-2xl"
+            className="w-full h-52 md:h-72 rounded-2xl"
             src="https://www.youtube.com/embed/H714wnQn2uw?si=Jz6AIL33QJCLdcU6"
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

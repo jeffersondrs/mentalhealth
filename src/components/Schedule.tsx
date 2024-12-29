@@ -16,7 +16,7 @@ const StartHealing = () => {
         <div className="flex flex-col w-full justify-center items-center mb-2">
           <Button
             title="Agendar"
-            className="bg-[#629D8C] text-white text-sm !py-2 w-full max-w-48 hover:bg-[#4E7C6C] transition duration-300 ease-in-out"
+            className="bg-[#629D8C] text-white text-sm md:text-base !py-2 w-full max-w-48 hover:bg-[#4E7C6C] transition duration-300 ease-in-out"
           />
         </div>
       </div>

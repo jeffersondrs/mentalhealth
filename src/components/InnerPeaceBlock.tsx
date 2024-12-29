@@ -7,7 +7,7 @@ const InnerPeaceBlock = () => {
     <section className="flex flex-row justify-center items-center w-full max-w-screen-2xl bg-gray-50 md:py-24 p-4">
       <div className="grid md:grid-cols-2 grid-cols-1 justify-items-center w-full max-w-5xl gap-6">
         <div className="flex flex-col justify-between items-start">
-          <h1 className="text-2xl md:text-3xl font-normal w-full mb-2">
+          <h1 className="text-2xl md:text-4xl font-normal w-full mb-2">
             Encontre o Seu Caminho para a Paz Interior
           </h1>
           <p className="md:text-base text-sm w-full my-6">
